@@ -1,10 +1,10 @@
-# Skateboard App
+# Good README Generator
     
-     It is about how to skateboard. Also it shows skateboarding
-     None
-     Myself.
-     For new skateboarders.
-     I will upload to github.
-     It is about how to skateboard. Also it shows skateboarding
+     This project is an application that automatically creates a good README file.
+     This has been tested only by me on my local pc.
+     I, Scott H, am the only contributer to this project.
+     The use case is for developers who want to create good easy README files.
+     This application can be installed by downloading from my github account (500inthegraveyard) under the repo Node.js-andES6
+     This project is an application that automatically creates a good README file.
    
   
